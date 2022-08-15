@@ -7,7 +7,7 @@ useful information for various distance measurement.
 
 ## Background
 [Lebesgue](https://blog.sciencenet.cn/blog-752541-831225.html)  
-[Tensor](https://blog.csdn.net/qimo601/article/details/109959663)(look the video link in the website!)
+[Tensor](https://blog.csdn.net/qimo601/article/details/109959663) (look the video link in the website!)
 
 ## Pic
 [Visual Distance](https://twitter.com/gabrielpeyre/status/1299656980911587328)
