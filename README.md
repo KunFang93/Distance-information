@@ -2,7 +2,7 @@
 useful information for various distance measurement.
 
 ## WiKi
-[Hellinger Distance](https://en.wikipedia.org/wiki/Hellinger_distance). 
+[Hellinger Distance](https://en.wikipedia.org/wiki/Hellinger_distance).  
 [Wassertain Distance](https://en.wikipedia.org/wiki/Wasserstein_metric).
 
 ## Background
