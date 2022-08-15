@@ -2,8 +2,8 @@
 useful information for various distance measurement.
 
 ## WiKi
-[Hellinger Distance](https://en.wikipedia.org/wiki/Hellinger_distance)
-[Wassertain Distance](https://en.wikipedia.org/wiki/Wasserstein_metric)
+[Hellinger Distance](https://en.wikipedia.org/wiki/Hellinger_distance). 
+[Wassertain Distance](https://en.wikipedia.org/wiki/Wasserstein_metric).
 
 ## Background
 [Lebesgue](https://blog.sciencenet.cn/blog-752541-831225.html)  
