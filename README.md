@@ -11,6 +11,7 @@ useful information for various distance measurement.
 [Parameteric vs Non parameteric test](https://www.youtube.com/watch?v=biXY84hDX5M).   
 [信息熵，交叉熵，相对熵](https://www.zhihu.com/question/41252833).  
 [KL divergence](https://www.jianshu.com/p/43318a3dc715).  
+[effect size(video)](https://www.youtube.com/watch?v=6uYNVCy-8NA) and [effect size(paper)](https://f.hubspotusercontent30.net/hubfs/5191137/attachments/ebe/ESguide.pdf)    
 
 ## Background
 [Lebesgue](https://blog.sciencenet.cn/blog-752541-831225.html)  
