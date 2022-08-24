@@ -4,9 +4,12 @@ useful information for various distance measurement.
 ## Web
 [Hellinger Distance](https://en.wikipedia.org/wiki/Hellinger_distance).  
 [Wassertain Distance](https://en.wikipedia.org/wiki/Wasserstein_metric).  
-[Reproducing kernel Hilbert space (RKHS)] ().  
+[Wassertain Distancce(zhihu)](https://zhuanlan.zhihu.com/p/58506295)
+[Reproducing kernel Hilbert space (RKHS)] (https://zhuanlan.zhihu.com/p/352966538).  
 [Hellinger Distance and Total variation distance](https://djalil.chafai.net/blog/2020/01/22/about-the-hellinger-distance/).    
-[Robust effect sizes for 2 independent groups](https://garstats.wordpress.com/2016/05/02/robust-effect-sizes-for-2-independent-groups/).  
+[Robust effect sizes for 2 independent groups](https://garstats.wordpress.com/2016/05/02/robust-effect-sizes-for-2-independent-groups/).    
+[Parameteric vs Non parameteric test](https://www.youtube.com/watch?v=biXY84hDX5M).  
+
 
 ## Background
 [Lebesgue](https://blog.sciencenet.cn/blog-752541-831225.html)  
