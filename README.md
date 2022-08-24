@@ -10,6 +10,7 @@ useful information for various distance measurement.
 [Robust effect sizes for 2 independent groups](https://garstats.wordpress.com/2016/05/02/robust-effect-sizes-for-2-independent-groups/).    
 [Parameteric vs Non parameteric test](https://www.youtube.com/watch?v=biXY84hDX5M).   
 [信息熵，交叉熵，相对熵](https://www.zhihu.com/question/41252833).  
+[KL divergence](https://www.jianshu.com/p/43318a3dc715).  
 
 ## Background
 [Lebesgue](https://blog.sciencenet.cn/blog-752541-831225.html)  
